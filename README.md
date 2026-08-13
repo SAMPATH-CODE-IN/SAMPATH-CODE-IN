@@ -1,11 +1,60 @@
-<h1 align="center">Hi 👋, I'm Sampath</h1> <h3 align="center">Java Developer | Exploring Machine Learning & Frontend</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+Developer;Machine+Learning+Enthusiast;Frontend+%7C+React+%7C+JavaScript;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" /> </p> <p align="center"> <a href="https://leetcode.com/u/SAMPATHV_1310/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> <a href="https://codeforces.com/profile/sampath_V13" target="_blank"> <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /> </a> </p>
-🧑‍💻 About Me
-💻 Java Developer, building solid fundamentals in DSA & Software Development
-🧠 Currently studying Machine Learning
-🌐 Comfortable with Frontend technologies — HTML, CSS, JS, React
-🎯 Goal: Grow into a strong Java Developer with ML & full-stack range
-🛠️ Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> </p>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.shion.dev/api?username=SAMPATH-CODE-IN&theme=dark&hide_border=true&count_private=false" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAMPATH-CODE-IN&theme=dark&hide_border=true&layout=compact" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=SAMPATH-CODE-IN&theme=dark&hide_border=true" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SAMPATH-CODE-IN&style=for-the-badge&color=blue" /> </p>
+<h1 align="center">Hi 👋, I'm Sampath</h1>
+<h3 align="center">Java Developer | Exploring Machine Learning & Frontend</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+Developer;Machine+Learning+Enthusiast;Frontend+%7C+React+%7C+JavaScript;Always+Learning+%E2%80%A2+Always+Building" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/SAMPATHV_1310/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/sampath_V13" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 💻 Java Developer, building solid fundamentals in **DSA & Software Development**
+- 🧠 Currently studying **Machine Learning**
+- 🌐 Comfortable with **Frontend technologies** — HTML, CSS, JS, React
+- 🎯 Goal: Grow into a strong **Java Developer** with ML & full-stack range
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=SAMPATH-CODE-IN&theme=dark&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=SAMPATH-CODE-IN&theme=dark&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SAMPATH-CODE-IN&theme=dark&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SAMPATH-CODE-IN&style=for-the-badge&color=blue" />
+</p>
