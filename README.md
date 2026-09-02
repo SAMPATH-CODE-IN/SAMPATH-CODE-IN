@@ -1,4 +1,4 @@
-<!--
+﻿<!--
   ====================================================================
   👨‍💻 SAMPATH V (@SAMPATH-CODE-IN) - AIML STUDENT & ASPIRING SOFTWARE DEVELOPER
   ====================================================================
@@ -7,8 +7,7 @@
 <div align="center">
 
   <!-- Dynamic Typing Header Banner -->
-
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/SAMPATH-CODE-IN">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sampath;Java+%26+DSA+Enthusiast;Problem+Solver+%7C+AIML+Student;Exploring+Machine+Learning+%26+Software+Development;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing Banner" />
   </a>
 
@@ -17,33 +16,22 @@
   </p>
 
   <!-- Coding & Professional Profiles -->
-
   <p align="center">
-
-```
-<a href="https://leetcode.com/u/SAMPATHV_1310/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
-
-&nbsp;
-
-<a href="https://codeforces.com/profile/sampath_V13" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-</a>
-
-&nbsp;
-
-<a href="https://www.geeksforgeeks.org/profile/sampath9jxv" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/sampath-v-896aaa326" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-```
-
+    <a href="https://leetcode.com/u/SAMPATHV_1310/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    &nbsp;
+    <a href="https://codeforces.com/profile/sampath_V13" target="_blank">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    &nbsp;
+    <a href="https://www.geeksforgeeks.org/profile/sampath9jxv" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/sampath-v-896aaa326" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
   </p>
 
 </div>
@@ -78,7 +66,6 @@ developer_profile:
 <div align="center">
 
   <!-- Visual Skill Icons -->
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,html,css,mysql,git,github,vscode&perline=6" alt="Skill Icons" />
   </a>
@@ -178,11 +165,7 @@ developer_profile:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAMPATH-CODE-IN/SAMPATH-CODE-IN/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAMPATH-CODE-IN/SAMPATH-CODE-IN/output/github-contribution-grid-snake.svg">
-
-```
-<img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SAMPATH-CODE-IN/SAMPATH-CODE-IN/output/github-contribution-grid-snake-dark.svg" width="100%">
-```
-
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/SAMPATH-CODE-IN/SAMPATH-CODE-IN/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 
 </div>
@@ -193,9 +176,9 @@ developer_profile:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMPATH-CODE-IN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATH-CODE-IN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAMPATH-CODE-IN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="175" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATH-CODE-IN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
 
 <br/><br/>
 
@@ -209,24 +192,22 @@ developer_profile:
 
 <div align="center">
 
+  <a href="https://github.com/SAMPATH-CODE-IN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
   <a href="https://leetcode.com/u/SAMPATHV_1310/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-
- 
-
+  &nbsp;
   <a href="https://codeforces.com/profile/sampath_V13" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
-
- 
-
+  &nbsp;
   <a href="https://www.geeksforgeeks.org/profile/sampath9jxv" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
-
- 
-
+  &nbsp;
   <a href="https://www.linkedin.com/in/sampath-v-896aaa326" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
