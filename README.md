@@ -176,9 +176,6 @@ developer_profile:
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SAMPATH-CODE-IN&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="175" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAMPATH-CODE-IN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
 
 <br/><br/>
 
